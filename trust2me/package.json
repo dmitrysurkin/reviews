@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "antd": "^4.4.3",
+    "react-jss": "^10.3.0",
+    "react-spring": "^8.0.27"
   }
 }
