@@ -13,4 +13,7 @@ export default {
         borderRadius: 10,
         backgroundColor: "#ffffff",
     },
+    left: {
+        marginRight: 55,
+    }
 };
