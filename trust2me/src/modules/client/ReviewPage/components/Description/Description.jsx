@@ -10,19 +10,23 @@ const Description = ({
     description,
     photos,
     contacts,
+    mark,
+    countOfReviews,
 }) => {
     return (
         <div className={classes.wrapper}>
             <Container>
                 <div className={classes.container}>
-                    <About
-                        companyName={companyName}
-                        logo={logo}
-                        description={description}
-                        photos={photos}
-                        contacts={contacts}
-                    />
-                    <Rating />
+                    <div className={classes.left}>
+                        <About
+                            companyName={companyName}
+                            logo={logo}
+                            description={description}
+                            photos={photos}
+                            contacts={contacts}
+                        />
+                    </div>
+                    <Rating mark={mark} countOfReviews={countOfReviews} />
                 </div>
             </Container>
         </div>

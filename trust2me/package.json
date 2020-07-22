@@ -33,7 +33,9 @@
   },
   "devDependencies": {
     "antd": "^4.4.3",
+    "lodash": "^4.17.19",
     "react-jss": "^10.3.0",
+    "swiper": "^6.0.4",
     "react-router-dom": "^5.2.0",
     "react-spring": "^8.0.27"
   }

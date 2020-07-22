@@ -4,7 +4,8 @@ import Client from "./modules/client";
 import Admin from "./modules/admin";
 import styles from "./styles.js";
 import withStyle from "react-jss";
-import style from './App.css';
+import './App.css';
+import 'antd/dist/antd.css'; 
 
 const App = () => {
     return (

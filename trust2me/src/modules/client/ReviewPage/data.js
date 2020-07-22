@@ -42,7 +42,7 @@ export default {
         {
             id: 2,
             url:
-                "https://creditvsbervbanke.ru/wp-content/uploads/2017/05/cms-image-000008239.jpg",
+                "https://yaltacrimea.ru/wp-content/uploads/2019/10/121846bddbc6b9f37b22626e656463d1-790x400.jpg",
         },
         {
             id: 3,
@@ -52,7 +52,7 @@ export default {
         {
             id: 4,
             url:
-                "https://creditvsbervbanke.ru/wp-content/uploads/2017/05/cms-image-000008239.jpg",
+                "https://yaltacrimea.ru/wp-content/uploads/2019/10/121846bddbc6b9f37b22626e656463d1-790x400.jpg",
         },
         {
             id: 5,
@@ -62,7 +62,7 @@ export default {
         {
             id: 6,
             url:
-                "https://creditvsbervbanke.ru/wp-content/uploads/2017/05/cms-image-000008239.jpg",
+                "https://yaltacrimea.ru/wp-content/uploads/2019/10/121846bddbc6b9f37b22626e656463d1-790x400.jpg",
         },
         {
             id: 7,
@@ -72,7 +72,7 @@ export default {
         {
             id: 8,
             url:
-                "https://creditvsbervbanke.ru/wp-content/uploads/2017/05/cms-image-000008239.jpg",
+                "https://yaltacrimea.ru/wp-content/uploads/2019/10/121846bddbc6b9f37b22626e656463d1-790x400.jpg",
         },
         {
             id: 9,
@@ -80,4 +80,6 @@ export default {
                 "https://creditvsbervbanke.ru/wp-content/uploads/2017/05/cms-image-000008239.jpg",
         },
     ],
+    mark: 3.5,
+    countOfReviews: 1,
 };
