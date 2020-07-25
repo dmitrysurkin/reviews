@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
+import Head from "./components/Head";
 
-const Rating = ({ classes }) => {
+const Rating = ({ classes, mark, countOfReviews }) => {
     return (
-        <div className={classes.wrapper}>  
-            
+        <div className={classes.wrapper}>
+            <Head mark={mark} countOfReviews={countOfReviews} />
         </div>
     );
 };

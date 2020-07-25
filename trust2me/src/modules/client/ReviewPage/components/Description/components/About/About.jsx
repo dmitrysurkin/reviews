@@ -25,7 +25,8 @@ const About = ({
             <div className={classes.item}>
                 <Photos
                     items={photos}
-                    count={6}
+                    count={7}
+                    companyName={companyName}
                 />
             </div>
         </div>
